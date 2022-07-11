@@ -1,0 +1,6 @@
+[submodule "rust-guessinggame"]
+	path = rust-guessinggame
+	url = https://github.com/anubhab-patnaik/rust-guessinggame
+[submodule "rust-helloworld"]
+	path = rust-helloworld
+	url = https://github.com/anubhab-patnaik/rust-helloworld
